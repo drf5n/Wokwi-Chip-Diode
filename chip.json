@@ -1,0 +1,8 @@
+{
+  "name": "DIODE",
+  "author": "Maverick",
+  "pins": [
+    "ANODE",
+    "CATHODE"
+  ]
+}
