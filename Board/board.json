@@ -3,13 +3,13 @@
   "version": 1,
   "description": "Diode",
   "author": "David Forrest",
-  "width": 8.564,
-  "height": 13.388,
+  "width": 15,
+  "height": 10,
 
   "chips": [{ "id": "chip", "type": "github:drf5n/Wokwi-Chip-Diode@1.0.0" }],
 
   "pins": {
-    "Anode": { "x": 1.46, "y": 13, "target": "chip:Anode" },
-    "Cathode": { "x": 4, "y": 13, "target": "chip:Cathode" }
+    "ANODE": { "x": 2, "y": 5, "target": "chip:ANODE" },
+    "CATHODE": { "x": 13, "y": 5, "target": "chip:CATHODE" }
   }
 }
